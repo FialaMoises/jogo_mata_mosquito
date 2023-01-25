@@ -4,6 +4,8 @@
 
 # Projeto(treino) - Mata-Mosquito
 
+![Jogo: Mata-Mosquito](https://github.com/FialaMoises/jogo_mata_mosquito/blob/main/127.0.0.1_5500_html_index.html%20-%20Opera%202023-01-25%2013-46-43.gif)
+
 ## 💻 Projeto de estudo:
 
 Um jogo "mata-mosquito" feito em HTML, JavaScript, CSS e Bootstrap é um jogo simples que utiliza essas tecnologias para criar a interface do jogo e controlar a lógica do jogo.
